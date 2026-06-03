@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=220&section=header&text=alwann&fontSize=90&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20ML%20Enthusiast&descSize=22&descAlignY=56&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=220&section=header&text=alwann&fontSize=90&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=Data%20Analyst%20%7C%20Web%20Developer&descSize=22&descAlignY=56&descAlign=50" width="100%"/>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=wann1133&label=Profile%20Views&color=11998e&style=flat-square" alt="Profile Views" />
