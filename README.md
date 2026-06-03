@@ -26,9 +26,9 @@
 
 ```json
 alwann = {
-    "name":        "alwann",
+    "name":        "Muhammad Alwan Farras",
     "username":    "wann1133",
-    "role":        ["Full-Stack Developer", "ML Enthusiast"],
+    "role":        ["Data Analyst", "AI Enthusiast"],
     "education":   "Gunadarma University — Depok, Jawa Barat ID",
     "focus":       ["Web Development", "Machine Learning", "Sentiment Analysis"],
     "languages":   ["Python", "JavaScript", "TypeScript", "PHP"],
