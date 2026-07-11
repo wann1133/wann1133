@@ -46,7 +46,7 @@ alwann = {
 | [🤖 chatbot-sederhana](https://github.com/wann1133/chatbot-sederhana) | Lightweight conversational chatbot with natural language processing | `JavaScript` |
 | [💻 codingboy-platform](https://github.com/wann1133/codingboy-platform) | Interactive coding learning platform for aspiring developers | `TypeScript` |
 | [📈 Prediksi_IHSG](https://github.com/wann1133/Prediksi_IHSG) | Indonesian Stock Exchange (IHSG) prediction using ML models | `Python` `scikit-learn` |
-| [🛍️ ecomercethai](https://github.com/wann1133/ecomercethai) | Full-featured e-commerce web application | `Laravel` `PHP` `Blade` |
+| [🛍️ Analisis_Sentiment IKN](https://github.com/wann1133/Analisis_Sentiment_IKN) | Sentiment analysis for IKN Project using NLP & Deep Learning | `Python` `Jupyter` `NLP` |
 
 ---
 
