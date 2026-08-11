@@ -5,7 +5,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=wann1133&label=Profile%20Views&color=11998e&style=flat-square" alt="Profile Views" />
   &nbsp;
-  <a href="www.linkedin.com/in/muhammad-alwan-farras-76829728b">
+  <a href="https://www.linkedin.com/in/muhammad-alwan-farras-76829728b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
